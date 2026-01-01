@@ -1,0 +1,8 @@
+{
+  "name": "BaliOS",
+  "description": "The Next-Gen Island Ecosystem. Real-time tropical intelligence, verified marketplaces, and nomad-first utility modules.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": "Create a BaliOS module for..."
+}
